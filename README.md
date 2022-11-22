@@ -22,7 +22,7 @@ $  Open the file index.html in your browser, Now it's time to test the blog.
 
 ## Links
 
-* Repository: https://github.com/Shift-ky/curso-em-video-html-css
+* Repository:
 
 ## Versioning
 1.0.0.0
